@@ -1,3 +1,4 @@
+#labels Phase-Deploy
 推呀网站加速器Windows客户端版使用说明
  * 本程序正常情况下,无需设置即可运行
  * 点击文件twiyia.exe, 程序以Dos窗口的方式运行, 并显示相关信息 (推荐方式), Ctrl + C 退出服务, 或直接关闭窗口
