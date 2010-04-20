@@ -18,9 +18,9 @@
 
 *帮助功能命令*
 
-  *$helpsearch - 帮助信息如何使用本聊天室的推特搜索功能
-  *$helpme - 如何在墙内访问推特中文社区 - 推呀网 http://twiyia.com
-  *$help - 显示本帮助信息
+  * $helpsearch - 帮助信息如何使用本聊天室的推特搜索功能
+  * $helpme - 如何在墙内访问推特中文社区 - 推呀网 http://twiyia.com
+  * $help - 显示本帮助信息
 
 *聊天室功能:*
 
