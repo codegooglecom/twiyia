@@ -1,0 +1,3 @@
+TwiyiaGtalk是基于Gtalk技术的聊天兼推特客户端软件，同时具有推特及google搜索功能
+
+使用帮助说明 TwiyiaGtalk\_User\_Manual
